@@ -1,6 +1,6 @@
 # About Hyperliquid
 
-# **What is Hyperliquid?**
+# What is Hyperliquid?
 
 Hyperliquid is a performant blockchain built with the vision of a fully onchain open financial system. Liquidity, user applications, and trading activity synergize on a unified platform that will ultimately house all of finance.&#x20;
 
