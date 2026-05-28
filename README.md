@@ -1,6 +1,8 @@
-# README.md
+# الرئيس
 
-# عالم البلوكشين المبسط 🌍
+## README.md
+
+## عالم البلوكشين المبسط �
 
 مرحبًا 👋
 
@@ -14,15 +16,15 @@
 
 بطريقة سهلة جدًا.
 
----
+***
 
-## صورة توضيحية
+### صورة توضيحية
 
 ![Blockchain](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Blockchain.svg/1200px-Blockchain.svg.png)
 
----
+***
 
-## الأقسام
+### الأقسام
 
 * مقدمة
 * كيف يعمل؟
