@@ -1,23 +1,20 @@
-# SUMMARY.md
-
-# جدول المحتويات
+# Table of contents
 
 * [الرئيسية](README.md)
 
 ## البداية
 
 * [ما هو البلوكشين؟](intro.md)
-* [كيف يعمل؟](how.md)
+* [كيف يعمل؟](albdayh/kyf-yaml.md)
 
 ## البيتكوين
 
-* [ما هو البيتكوين؟](bitcoin/README.md)
-
-  * [التعدين](bitcoin/mining.md)
-  * [المحافظ](bitcoin/wallets.md)
-  * [المعاملات](bitcoin/transactions.md)
+* [ما هو البيتكوين؟](albytkwyn/ma-hw-albytkwyn/README.md)
+  * [التعدين](albytkwyn/ma-hw-albytkwyn/altadyn.md)
+  * [المحافظ](albytkwyn/ma-hw-albytkwyn/almhafz.md)
+  * [المعاملات](albytkwyn/ma-hw-albytkwyn/almaamlat.md)
 
 ## المطورين
 
-* [API](dev/api.md)
-* [WebSocket](dev/ws.md)
+* [API](almtwryn/api.md)
+* [WebSocket](almtwryn/websocket.md)
