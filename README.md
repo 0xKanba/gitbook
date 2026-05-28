@@ -1,17 +1,31 @@
-# About Hyperliquid
+# README.md
 
-## What is Hyperliquid?
+# عالم البلوكشين المبسط 🌍
 
-Hyperliquid is a performant blockchain built with the vision of a fully onchain open financial system. Liquidity, user applications, and trading activity synergize on a unified platform that will ultimately house all of finance.&#x20;
+مرحبًا 👋
 
-### Technical overview
+هذه مستندات تجريبية تشرح:
 
-Hyperliquid is a layer one blockchain (L1) written and optimized from first principles.&#x20;
+* البيتكوين
+* البلوكشين
+* التعدين
+* المحافظ
+* المعاملات
 
-Hyperliquid uses a custom consensus algorithm called HyperBFT inspired by Hotstuff and its successors. Both the algorithm and networking stack are optimized from the ground up to support the unique demands of the L1.&#x20;
+بطريقة سهلة جدًا حتى للمبتدئين.
 
-Hyperliquid state execution is split into two broad components: HyperCore and the HyperEVM. HyperCore includes fully onchain perpetual futures and spot order books. Every order, cancel, trade, and liquidation happens transparently with one-block finality inherited from HyperBFT. HyperCore currently supports 200k orders / second, with throughput constantly improving as the node software is further optimized.
+---
 
-The HyperEVM brings the familiar general-purpose smart contract platform pioneered by Ethereum to the Hyperliquid blockchain. With the HyperEVM, the performant liquidity and financial primitives of HyperCore are available as permissionless building blocks for all users and builders. See the HyperEVM documentation section for more technical details.
+## الأقسام
 
-<figure><img src="/files/06fhFwlvyufYvqdhjiUs" alt="" width="563"><figcaption></figcaption></figure>
+* مقدمة
+* كيف يعمل البلوكشين
+* التعدين
+* المحافظ
+* المعاملات
+* API
+* WebSocket
+
+---
+
+![Blockchain](images/blockchain.png)
