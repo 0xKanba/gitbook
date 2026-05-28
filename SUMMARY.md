@@ -1,11 +1,23 @@
-# Table of contents
+# SUMMARY.md
 
-* [مقدمة عنا](README.md)
-  * [اصالة سريعة](read2.md)
-* [اولا](awla/README.md)
-  * [فرع اولا](<اولا/فرع اولا.md>)
-   * [بعد ثالث](awla/x/r2.md)
-* [ثانيا](thanya/README.md)
-  * [فرع ثانيا](<ثانيا/فرع ثاني.md>)
-  * [فرع 2ثانيا](<ثانيا/فرع2 ثاني.md>)
+# جدول المحتويات
 
+* [الرئيسية](README.md)
+
+## البداية
+
+* [ما هو البلوكشين؟](intro.md)
+* [كيف يعمل؟](how.md)
+
+## البيتكوين
+
+* [ما هو البيتكوين؟](bitcoin/README.md)
+
+  * [التعدين](bitcoin/mining.md)
+  * [المحافظ](bitcoin/wallets.md)
+  * [المعاملات](bitcoin/transactions.md)
+
+## المطورين
+
+* [API](dev/api.md)
+* [WebSocket](dev/ws.md)
